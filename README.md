@@ -21,7 +21,7 @@ The main sheets for the homework assignment are:
 
 6) Bonus2: Summary statistics for successful and unnsuccesful campaigns.
 
-7) Sheet for Bonus state: Copy of Data (1) with filter to aid in subseting for Bonus2
+7) Sheet for Bonus stats: Copy of Data (1) with filter to aid in subseting for Bonus2
 
 
 There are two extra sheets that I created to help understand the data better:
